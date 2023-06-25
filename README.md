@@ -1,11 +1,8 @@
 <!-- Banner -->
-<p align="center"><img alt="Profile Banner" src=""></p>
-
-<p align="left"> <a href="https://twitter.com/simplyuix" target="blank"><img src="" height="36" alt="simplyuix"/></a></p>
+<p align="center"><img alt="Profile Banner" src="https://github.com/simplyuix/simplyuix/blob/b356dedd45b9fb597163ab29f99f77ab404e3ad4/Readme.png"></p>
 
 <div align="center">
 
-I'm a Creative Developer working in the nexus of design, engineering, and business to produce experiences that benefit people everywhere while also being profitable for the company.
 
   
 </div>
@@ -16,24 +13,16 @@ I'm a Creative Developer working in the nexus of design, engineering, and busine
 <!-- HASHNODE_BLOG:END -->
 
 
-### 🛠 &nbsp;Tech Stack
+### 🛠 Programming languages
 
 
-![ReactJS](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![NodeJS](https://img.shields.io/badge/-NodeJS-05122A?style=flat&logo=node.js)&nbsp;
-![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 
-### 📫 &nbsp; How to reach me:
 
-<a href=""><img alt="Twitter" src="https://img.shields.io/badge/Twitter%20-%230077B5.svg?&style=flat&logo=twitter&logoColor=white"/></a>&nbsp;
-<a href=""><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
-<a href=""><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;   
+### 📫 Let's Connect
+
+
+<a href="https://www.behance.net/simplyuix">![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)</a>   
+<a href="https://www.instagram.com/amann_singhh_/">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/aman-singh-76aa50220/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="mailto:simplyuix@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
