@@ -10,10 +10,10 @@ I'm a Creative Developer working in the nexus of design, engineering, and busine
   
 </div>
 
-### My Latest Blog Posts 👇
+
 <!-- HASHNODE_BLOG:START -->
 
 <!-- HASHNODE_BLOG:END -->
 
-### Achievements
+
      
