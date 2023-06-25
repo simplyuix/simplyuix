@@ -1,16 +1,19 @@
-### Hi there 👋
+<!-- Banner -->
+<p align="center"><img alt="Profile Banner" src=""></p>
 
-<!--
-**simplyuix/simplyuix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <a href="https://twitter.com/simplyuix" target="blank"><img src="" height="36" alt="simplyuix"/></a></p>
 
-Here are some ideas to get you started:
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Creative Developer working in the nexus of design, engineering, and business to produce experiences that benefit people everywhere while also being profitable for the company.
+
+  
+</div>
+
+### My Latest Blog Posts 👇
+<!-- HASHNODE_BLOG:START -->
+
+<!-- HASHNODE_BLOG:END -->
+
+### Achievements
+     
